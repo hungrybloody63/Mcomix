@@ -217,4 +217,4 @@ MComix is released as a full free version with all features and updates included
 Start enjoying your comics today with MComix — the ultimate free comic reader for Windows!
 
 ---
-**Last updated:** 2026-09-26 22:34:49 UTC
+**Last updated:** 2026-09-27 01:14:48 UTC
